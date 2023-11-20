@@ -1,1 +1,1 @@
-# eas-grid
+# game-of-life
